@@ -362,7 +362,7 @@ to v1. A `"v2"`, `null`, or absent surface value is eligible; a real `"v1"` pin 
 
 ### Why does `spawn_agent` list models I did not feature?
 
-Codex always fills its five advertised slots from the catalog by priority. With fewer than five
+Codex fills up to five advertised slots from the catalog by priority. With fewer than five
 featured models, the next rows take the remaining slots; see
 [Which models `spawn_agent` advertises](#which-models-spawn_agent-advertises).
 

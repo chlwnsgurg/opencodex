@@ -304,7 +304,7 @@ bulunmayan arayüz değeri uygundur; gerçek bir `"v1"` sabitlemesi uygun değil
 
 ### `spawn_agent` neden öne çıkarmadığım modelleri listeliyor?
 
-Codex sunduğu beş yuvayı her zaman katalogdan önceliğe göre doldurur. Beşten az model öne çıkardığınızda kalan yuvaları sonraki satırlar alır; yukarıdaki "`spawn_agent` hangi modelleri sunar?" bölümüne bakın.
+Codex sunduğu en fazla beş yuvayı katalogdan önceliğe göre doldurur. Beşten az model öne çıkardığınızda kalan yuvaları sonraki satırlar alır; yukarıdaki "`spawn_agent` hangi modelleri sunar?" bölümüne bakın.
 
 ### Mod değişiklikleri çalışan oturumları etkiler mi?
 

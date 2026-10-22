@@ -223,7 +223,7 @@ curl -X PUT http://localhost:10100/api/injection-model \
 
 ### 為什麼 `spawn_agent` 列出了我沒有設定的模型？
 
-Codex 一律依 priority 從目錄填滿它列出的五個位置。設定的模型少於五個時，接下來的列會佔用其餘位置。參見上文「`spawn_agent` 列出哪些模型」一節。
+Codex 依 priority 從目錄填入最多五個列出位置。設定的模型少於五個時，接下來的列會佔用其餘位置。參見上文「`spawn_agent` 列出哪些模型」一節。
 
 ### 模式變更會影響執行中的工作階段嗎？
 

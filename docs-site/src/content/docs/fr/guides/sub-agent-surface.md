@@ -277,7 +277,7 @@ Il peut être masqué par le sélecteur, en dehors de la limite d'affichage de c
 
 ### Pourquoi `spawn_agent` liste-t-il des modèles que je n'ai pas mis en avant ?
 
-Codex remplit toujours ses cinq emplacements annoncés à partir du catalogue, par priorité. Avec moins de cinq modèles mis en avant, les lignes suivantes occupent les emplacements restants ; voir la section « Modèles annoncés par `spawn_agent` » ci-dessus.
+Codex remplit jusqu'à cinq emplacements annoncés à partir du catalogue, par priorité. Avec moins de cinq modèles mis en avant, les lignes suivantes occupent les emplacements restants ; voir la section « Modèles annoncés par `spawn_agent` » ci-dessus.
 
 ### Les changements de mode affectent-ils les sessions en cours ?
 
